@@ -1,0 +1,19 @@
+.logos {
+	display: flex;
+	justify-content: space-between;
+
+	.logo-item {
+		border: 1px solid #eaeaea;
+		height: 6.25rem;
+		width: 100%;		
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: auto;
+
+		img {
+			width: auto;
+			height: auto;
+		}
+	}
+} 
